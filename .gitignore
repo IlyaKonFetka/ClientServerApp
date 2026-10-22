@@ -1,0 +1,21 @@
+# Gradle / build
+.gradle/
+build/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS / tools
+.DS_Store
+.claude/
+hs_err_pid*.log
+replay_pid*.log
